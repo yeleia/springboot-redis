@@ -104,7 +104,6 @@ RedisConfig.class
 具体目录如下
 
 
-
 运行时,确保redis是开启的,如果插入时会插入中文,连接时添加 --raw,即 redis-cli --raw
 
 
